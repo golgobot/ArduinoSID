@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map SID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SID	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setVolume	KEYWORD2
+setVoiceFrequency	KEYWORD2
+setADSR	KEYWORD2
+setSquare	KEYWORD2
+setTriangle	KEYWORD2
+setSawTooth	KEYWORD2
+setGate		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
